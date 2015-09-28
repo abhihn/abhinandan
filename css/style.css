@@ -40,7 +40,7 @@ body a{
   margin:0
 }
 .banner {
-  background: url(../images/9.jpg) no-repeat 0px 0px;
+  background: url(../images/9.jpg) no-repeat 0px 40%;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
